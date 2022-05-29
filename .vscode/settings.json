@@ -1,0 +1,8 @@
+{
+  "liveServer.settings.https": {
+    "enable": true,
+    "cert": "~/service-worker-pg/primary.crt",
+    "key": "~/service-worker-pg/private.key",
+    "passphrase": "12345"
+  }
+}
